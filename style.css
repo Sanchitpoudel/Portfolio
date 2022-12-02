@@ -185,7 +185,7 @@ body.dark .sidebar header .toggle{
 .sidebar li a:hover{
     background-color: var(--primary-color);
 }
-.sidebar li a:hover .icon,
+.sidebar li a:hover .icon, 
 .sidebar li a:hover .text{
     color: var(--sidebar-color);
 }
@@ -311,7 +311,7 @@ body.dark .home .text{
     padding:10px;
     border-radius: 10px;
     color: white;
-    background-color: #4a1515;
+    background-color: #623596;
     font-size: 20px;
     font-family: 'Exo 2', sans-serif;
 }
@@ -321,7 +321,6 @@ body.dark .home .text{
     }
     .devpic img{
         width: 450px;
-        padding-top: 30px;
         border-radius: 10px;
         }
         .infocontainer{
